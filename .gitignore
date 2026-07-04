@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+models/saved/*.keras
+models/saved/*.pkl
+
+data/history.csv
+
+.vscode/
